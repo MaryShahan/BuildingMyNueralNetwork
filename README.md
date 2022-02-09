@@ -7,6 +7,7 @@ introducing Pytorch which is a very powerful tool for Machine Learning and AI.
 then validation or pre-processing of the dataset, which are also very important steps
 
 Then, we'll learn how to define the training function for our model, as well as connecting to a GPU engine FOR FREE! GOOGLECOLAB>RUNTIME>CHANGE RUNTIME TYPE>GPU>SAVE
+
 included lots of helpful code for checkpoint saving, checkpoint loading, loss plotting, and prediction.
 Even though the model is not nearly as accurate as it can be, we can test it check how logical our predicted story is.
 Feel free to experiment with different weights, batch size, embedding dimensions, linear transformations, activation functions, losses, optimizers and etc. as I'll be doing this on my end as well.
